@@ -1,3 +1,5 @@
+# 🏎️ Apex Horizon
+
 **Apex Horizon** is a fun browser-based driving game where you can race, drive around, and explore.
 
 ## 🎮 Features
